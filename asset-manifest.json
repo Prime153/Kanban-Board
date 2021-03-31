@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Kanban-Board/static/js/main.62ac07bd.chunk.js",
-    "main.js.map": "/Kanban-Board/static/js/main.62ac07bd.chunk.js.map",
+    "main.js": "/Kanban-Board/static/js/main.f9c65a5f.chunk.js",
+    "main.js.map": "/Kanban-Board/static/js/main.f9c65a5f.chunk.js.map",
     "runtime-main.js": "/Kanban-Board/static/js/runtime-main.2e8aab99.js",
     "runtime-main.js.map": "/Kanban-Board/static/js/runtime-main.2e8aab99.js.map",
     "static/js/2.9cd30075.chunk.js": "/Kanban-Board/static/js/2.9cd30075.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.2e8aab99.js",
     "static/js/2.9cd30075.chunk.js",
-    "static/js/main.62ac07bd.chunk.js"
+    "static/js/main.f9c65a5f.chunk.js"
   ]
 }
