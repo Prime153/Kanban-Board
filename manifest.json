@@ -7,8 +7,6 @@
       "sizes": "16x16",
       "type": "image/x-icon"
     }
-  
-   
   ],
   "start_url": ".",
   "display": "standalone",
