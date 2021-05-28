@@ -1,5 +1,7 @@
 # Kanban Board
-##### This is very simple kanban board. I used Beautiful DnD library for it. User can choose the importance of the card, while adding new one.
+##### A simple application made in React. It uses the Beautiful DnD Library to
+smoothly move cards. When creating a new card, the user can specify a
+priority.
 
 [![Kanban Board](https://i.ibb.co/F7fh9bt/kanban-board.jpg "Kanban Board")](https://prime153.github.io/Kanban-Board/ "Kanban Board")
 
